@@ -1,2 +1,2 @@
-# sql-exploratory-data-analysis-project
-This repository holds a collection of SQL scripts used for EDA &amp; Advanced Analysis such as change-over-time, part-to-whole analysis, cumulative analysis, performance analysis, data segmentation and a finalized report containing all of the analysis combined.
+# sql-data-analytics-project
+This collection includes a variety of SQL scripts aimed at data exploration, analytics, and reporting. The scripts address different types of analyses, such as examining databases, measuring key metrics, analyzing time trends, cumulative analytics, and segmentation. Designed for data analysts and business intelligence professionals, these SQL queries make it easier to explore, segment, and analyze data in relational databases. Each script focuses on a specific analytical topic and showcases best practices for writing SQL queries.
